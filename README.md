@@ -3,7 +3,7 @@ TCS iON 210 Internship: By: Sarthak Bhasin
 
 Automate Identification & Recognition of Handwritten Text from an Image
 
-Dataset Used Link: https://drive.google.com/drive/folders/1vMjb21nqoWFcv_t46kB8d-uEHUbZsK2r?usp=sharing
+Dataset Used Link: https://bvpit-my.sharepoint.com/:f:/g/personal/sarthak_bhasin-coep_bvucoep_edu_in/Ep6SWwlgMvJEjmTfdsek0eIB9CtSm9LaWHKG8DowQMjpKA?e=dDosT1
 
 Model Developed Link: https://drive.google.com/file/d/19jstiBQgGw9XWkCYNIMgMQ5aO3RP-zlz/view?usp=sharing
 
